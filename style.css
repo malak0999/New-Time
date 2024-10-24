@@ -1,0 +1,13 @@
+body{
+    background-image: url(/gissler-piony-1.webp);
+    background-repeat: no-repeat;
+    background: cover;
+    height: 100vh;
+    color: rgb(241, 123, 201);
+    text-align: center;
+    font-style: oblique;
+    
+}
+h1{
+    font-size: 50px;
+}
